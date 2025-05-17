@@ -1,0 +1,45 @@
+# Como Contribuir
+
+Olá! Obrigado pelo seu interesse em contribuir para este projeto que explora a interseção entre BIM e Inteligência Artificial na Engenharia Civil.
+
+Seu envolvimento é muito bem-vindo para enriquecer este repositório com novas informações, exemplos, correções ou sugestões.
+
+## Formas de Contribuir
+
+Existem várias maneiras de ajudar:
+
+1.  **Sugerir Melhorias e Reportar Erros:** Se você encontrar erros de digitação, informações incorretas ou tiver sugestões de como melhorar o conteúdo, por favor, abra uma **Issue** no repositório. Descreva o problema ou a sugestão detalhadamente.
+2.  **Adicionar Conteúdo ou Complementar Informações:** Se você quiser adicionar novas seções, expandir as informações existentes, incluir novos casos de uso ou discutir desafios/tendências não abordadas, siga o fluxo de trabalho de Pull Request abaixo.
+3.  **Compartilhar Recursos:** Conhece algum artigo relevante, ferramenta útil, dataset interessante ou repositório relacionado? Sugira-os abrindo uma Issue ou enviando um Pull Request para adicionar na seção `resources/links.md`.
+4.  **Adicionar Exemplos:** Se você tem um pequeno script ou um exemplo conceitual (mesmo que não seja código completo) que ilustre a aplicação de IA em um processo BIM, adicione-o na pasta `examples/` via Pull Request.
+
+## Fluxo de Trabalho para Contribuições (via Pull Request)
+
+Para adicionar ou modificar conteúdo diretamente nos arquivos:
+
+1.  **Faça um Fork** deste repositório para sua conta GitHub.
+2.  **Clone o Fork** para sua máquina local.
+    ```bash
+    git clone [https://github.com/SeuUsuario/BIM-IA-Engenharia-Civil.git](https://github.com/4ndersonJr/BIM-IA-Civil-Engineering) # Substitua SeuUsuario
+    cd BIM-IA-Engenharia-Civil
+    ```
+3.  **Crie uma Nova Branch** para suas alterações. Use um nome descritivo.
+    ```bash
+    git checkout -b minha-contribuicao-relevante
+    ```
+4.  **Faça Suas Alterações:** Edite os arquivos existentes ou adicione novos arquivos na estrutura apropriada (`docs/`, `resources/`, `examples/`).
+5.  **Commit Suas Alterações:** Escreva mensagens de commit claras e concisas.
+    ```bash
+    git add .
+    git commit -m "feat: Adiciona seção sobre aprendizado de máquina em detecção de conflitos"
+    ```
+6.  **Envie Suas Alterações** para o seu Fork no GitHub.
+    ```bash
+    git push origin minha-contribuicao-relevante
+    ```
+7.  **Abra um Pull Request (PR):** Vá para a página do seu Fork no GitHub. Você verá um botão ou um aviso para comparar e criar um Pull Request. Crie o PR direcionando-o para a branch principal (`main` ou `master`) deste repositório.
+8.  **Descreva Seu PR:** Explique as mudanças que você fez e por que elas são valiosas.
+
+Revisaremos seu PR o mais rápido possível, poderemos discutir as alterações e, se tudo estiver ok, ele será mesclado ao repositório principal.
+
+Obrigado novamente por sua colaboração!
