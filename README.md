@@ -15,4 +15,4 @@ A parceria BIM + IA revoluciona a Engenharia Civil ao transformar o modelo BIM, 
 * **Design Generativo:** Explorar e gerar múltiplas opções de design otimizadas com base em critérios definidos.
 * **Descoberta de Novas Análises:** Identificar correlações e métricas de desempenho não óbvias nos dados do projeto e operação.
 
-# PS: Essa é minha primeira interação com a plataforma (GitHub) assim como a Imersão da Alura com o Gemini, foi o mais próximo que cheguei da área da programação (uma área que despertou meu interesse). Minha ideia pode parecer boba ou vazia, mas esta aqui, apesar de ter zero conhecimento desse mundo (como em muitas outras áreas) estou tentando. Obrigado!
+- PS: Essa é minha primeira interação com a plataforma (GitHub) assim como a Imersão da Alura com o Gemini, foi o mais próximo que cheguei da área da programação (uma área que despertou meu interesse). Minha ideia pode parecer boba ou vazia, mas esta aqui, apesar de ter zero conhecimento desse mundo (como em muitas outras áreas) estou tentando. Obrigado!
